@@ -1,4 +1,4 @@
-# CarDealershipStartupVenture-BigQuery
+# CarDealershipStartupVenture-BigQuery (GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE)
 
 Review the following scenario. Then complete the step-by-step instructions.
 
