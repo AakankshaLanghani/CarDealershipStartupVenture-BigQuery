@@ -1,3 +1,5 @@
+# 🚗 Car Dealership Startup Venture – BigQuery (Google Data Analytics Professional Certificate)  
+
 ### 📌 Scenario  
 As a **data analyst** for a **used car dealership startup**, your task is to analyze customer preferences to help investors make informed stocking decisions. By identifying the most popular cars, the dealership can optimize its inventory to meet customer demand.  
 
